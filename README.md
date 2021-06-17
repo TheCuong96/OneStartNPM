@@ -1,5 +1,5 @@
 # Installation == cài đặt:  
-`npm i npmstartOne --save`
+`npm i npmstart_one --save`
 
 ```
     npmstartOne({

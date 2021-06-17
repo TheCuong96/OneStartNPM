@@ -1,0 +1,23 @@
+{
+  "name": "npmstart_one",
+  "version": "1.0.0",
+  "description": "đẩy lên npm lần thứ 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCuong96/OneStartNPM.git"
+  },
+  "keywords": [
+    "npmone",
+    "npmOne"
+  ],
+  "author": "Cường Phan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheCuong96/OneStartNPM/issues"
+  },
+  "homepage": "https://github.com/TheCuong96/OneStartNPM#readme"
+}
